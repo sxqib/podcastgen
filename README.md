@@ -14,7 +14,7 @@ PodcastGen is an innovative AI-powered tool that generates engaging two-speaker 
 ## 🚀 Try It Out
 
 Hugging Face Space:
-[PodcastGen on Hugging Face](https://huggingface.co/spaces/saq1b/podcastgen)
+[!PodcastGen on Hugging Face](https://huggingface.co/spaces/saq1b/podcastgen)
 
 ## 🛠️ How It Works
 
