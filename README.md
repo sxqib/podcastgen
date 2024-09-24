@@ -1,6 +1,7 @@
 # PodcastGen 🎙️
 
 PodcastGen is an AI-powered tool inspired from Googles NotebookLM podcast generation, that generates engaging two-speaker podcasts from text input or document uploads.
+![image](https://github.com/user-attachments/assets/7ab0fecd-69b0-4fb2-99e2-0e29e701ab66)
 
 ## Features
 
