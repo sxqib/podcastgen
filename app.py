@@ -413,7 +413,8 @@ iface = gr.Interface(
     ],
     title="PodcastGen 🎙️",
     description="Generate a 2-speaker podcast from text input or documents!",
-    theme="saq1b/gradio-theme"
+    theme="saq1b/gradio-theme",
+    allow_flagging="never"
 )
 
 if __name__ == "__main__":
