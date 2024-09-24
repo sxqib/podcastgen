@@ -1,8 +1,8 @@
 # PodcastGen 🎙️
 
-PodcastGen is an innovative AI-powered tool that generates engaging two-speaker podcasts from text input or document uploads. Transform your ideas, articles, or research into lively audio conversations with just a few clicks!
+PodcastGen is an AI-powered tool inspired from Googles NotebookLM podcast generation, that generates engaging two-speaker podcasts from text input or document uploads.
 
-## 🌟 Features
+## Features
 
 - Generate podcasts from text input or uploaded PDF/TXT files
 - AI-powered script generation using Gemini API
@@ -11,10 +11,10 @@ PodcastGen is an innovative AI-powered tool that generates engaging two-speaker 
 - Customizable voice selection for speakers
 - High-quality text-to-speech using Edge TTS
 
-## 🚀 Try It Out on Hugging Face
+## Try It Out on Hugging Face
 [![Open in HuggingFace Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/saq1b/podcastgen)
 
-## 🛠️ How It Works
+## How It Works
 
 1. **Input**: Provide text or upload a PDF/TXT file.
 2. **Language Selection**: Choose a language or use auto-detect.
@@ -24,7 +24,7 @@ PodcastGen is an innovative AI-powered tool that generates engaging two-speaker 
    - TTS converts the script to natural-sounding speech.
 5. **Output**: Download your generated podcast audio file.
 
-## 🎛️ Customization
+## Customization
 
 - **Voices**: Choose from a variety of voices for each speaker, including:
   - Andrew, Ava, Brian, Emma (English)
@@ -57,11 +57,10 @@ PodcastGen is an innovative AI-powered tool that generates engaging two-speaker 
    python app.py
    ```
 
-## 👏 Acknowledgements
+## Acknowledgements
 
 - NotebookLM for inspiring me to create this.
 - Gemini API for powerful language processing
 - Edge TTS for high-quality speech synthesis
 - Gradio for the user-friendly interface
 
-Happy podcasting! 🎉
